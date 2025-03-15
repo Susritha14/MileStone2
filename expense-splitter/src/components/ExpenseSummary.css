@@ -1,0 +1,13 @@
+/* src/components/ExpenseSummary.css */
+.expense-summary {
+  padding: 20px;
+}
+
+.expense-summary ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.expense-summary li {
+  padding: 5px 0;
+}
